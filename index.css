@@ -102,7 +102,7 @@ body{
 .sidebar{
     display: flex;
     margin: 0 0 0 4%;
-    min-width: 800px;}
+    min-width: 220px;}
 
 .header_grid {display: flex;
     flex: 1 0 auto;
