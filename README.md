@@ -1,8 +1,13 @@
+## Hi! 
+
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
 # Project_1
 HTML/CSS 
 
 
-## Hi! Operating Tools 
+
+## Operating Tools 
 
 
 [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
@@ -20,4 +25,4 @@ HTML/CSS
 
 
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
