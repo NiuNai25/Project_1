@@ -9,11 +9,11 @@ Hi! Operating Tools
 
 Full screen browser:
 
-<img src=https://user-images.githubusercontent.com/117024752/211190695-99448182-144f-41e7-b500-336977ccc0f5.png width=300 height=500>
+<img src=https://user-images.githubusercontent.com/117024752/211190695-99448182-144f-41e7-b500-336977ccc0f5.png width=800 height=500>
 
 1023px screen browser:
 
 
-<img src=https://user-images.githubusercontent.com/117024752/211190784-d589e092-d492-4c61-b7b3-016e38f70f9c.png width=300 height=500>
+<img src=https://user-images.githubusercontent.com/117024752/211190784-d589e092-d492-4c61-b7b3-016e38f70f9c.png width=800 height=500>
 
 
